@@ -16,6 +16,7 @@ Here are the awesome iOS / Swift libraries.
 - [Keyboard](#keyboard)    
 - [UI](#ui)
     - [Alert](#alert)
+    - [Animation](#animation)
     - [Button](#button)
     - [Calendar](#calendar)
     - [Color](#color)
@@ -51,6 +52,8 @@ Here are the awesome iOS / Swift libraries.
 * [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - Well supported and easy to use alert/dialog/popup library
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) - Perfect, customizable and easy to use Banner Dropdown library
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful and customizable alert view library
+#### Animation
+* [Pastel](https://github.com/cruisediary/Pastel) - Perfect and extremely easy to use, gradient color change animation library.
 #### Button
 * [VHBoomMenuButton](https://github.com/Nightonke/VHBoomMenuButton) - Marvelous animations, plenty of animation options, wonderful documentation
 #### Calendar
