@@ -54,6 +54,7 @@ Here are the awesome iOS / Swift libraries.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful and customizable alert view library
 #### Animation
 * [Pastel](https://github.com/cruisediary/Pastel) - Perfect and extremely easy to use, gradient color change animation library.
+* [Sequent](https://github.com/fujiyuu75/Sequent) - Cool and easy to use library for first animation in a View Controller
 #### Button
 * [VHBoomMenuButton](https://github.com/Nightonke/VHBoomMenuButton) - Marvelous animations, plenty of animation options, wonderful documentation
 #### Calendar
