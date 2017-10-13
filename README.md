@@ -1,6 +1,6 @@
 # Awesome-Swift-Lib-Hunt
 
-![](https://img.shields.io/badge/swift%20projects-22-orange.svg) ![](https://img.shields.io/badge/Last%20Updated-August&nbsp;08,&nbsp;2017-green.svg)
+![](https://img.shields.io/badge/swift%20projects-23-orange.svg) ![](https://img.shields.io/badge/Last%20Updated-August&nbsp;08,&nbsp;2017-green.svg)
 
 All these libraries are tested and used by myself. Bookmarks are just not enough and we cannot share them on public easily. 
 
@@ -55,6 +55,7 @@ Here are the awesome iOS / Swift libraries.
 #### Animation
 * [Pastel](https://github.com/cruisediary/Pastel) - Perfect and extremely easy to use, gradient color change animation library.
 * [Sequent](https://github.com/fujiyuu75/Sequent) - Cool and easy to use library for first animation in a View Controller
+* [Transitions Everywhere](https://github.com/andkulikov/transitions-everywhere) - Perfect library for creating magical transitions. Easy to use & Well documented.
 #### Button
 * [VHBoomMenuButton](https://github.com/Nightonke/VHBoomMenuButton) - Marvelous animations, plenty of animation options, wonderful documentation
 #### Calendar
