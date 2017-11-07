@@ -1,6 +1,6 @@
 # Awesome-Swift-Lib-Hunt
 
-![](https://img.shields.io/badge/swift%20projects-23-orange.svg) ![](https://img.shields.io/badge/Last%20Updated-August&nbsp;08,&nbsp;2017-green.svg)
+![](https://img.shields.io/badge/swift%20projects-28-orange.svg) ![](https://img.shields.io/badge/Last%20Updated-August&nbsp;08,&nbsp;2017-green.svg)
 
 All these libraries are tested and used by myself. Bookmarks are just not enough and we cannot share them on public easily. 
 
@@ -23,6 +23,7 @@ Here are the awesome iOS / Swift libraries.
     - [Images](#images)
     - [Indicator](#indicator)
     - [Label](#label)
+    - [OnBoard](#onboard)
     - [Switch](#switch)
     - [Tab](#tab)
     - [TextField](#textfield)
@@ -53,8 +54,9 @@ Here are the awesome iOS / Swift libraries.
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) - Perfect, customizable and easy to use Banner Dropdown library
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful and customizable alert view library
 #### Animation
+* [Lottie](https://github.com/airbnb/lottie-ios) - Extremely easy to use and native animation library!
 * [Pastel](https://github.com/cruisediary/Pastel) - Perfect and extremely easy to use, gradient color change animation library.
-* [Sequent](https://github.com/fujiyuu75/Sequent) - Cool and easy to use library for first animation in a View Controller
+* [Sequents](https://github.com/fujiyuu75/Sequents) - Cool and easy to use library for first animation in a View Controller
 * [Transitions Everywhere](https://github.com/andkulikov/transitions-everywhere) - Perfect library for creating magical transitions. Easy to use & Well documented.
 #### Button
 * [VHBoomMenuButton](https://github.com/Nightonke/VHBoomMenuButton) - Marvelous animations, plenty of animation options, wonderful documentation
@@ -62,11 +64,15 @@ Here are the awesome iOS / Swift libraries.
 * [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - The best calendar library ever ! Perfect UI and easy to implement
 * [FSCalendar](https://github.com/WenchaoD/FSCalendar) - Very good calendar library with its UI, supports Widget Calendar
 #### Color
+* [Chameleon](https://github.com/ViccAlexander/Chameleon) - Perfect for gradient and flat color schemas
 * [MaterialColor](https://github.com/WrathChaos/MaterialColor) - Material Color Palette Library
 #### Images
 * [SwiftGif](https://github.com/bahlo/SwiftGif) - Tiny & easy to use GIF library
 #### Indicator
+* [RSLoadingView](https://github.com/roytornado/RSLoadingView) - Very beautiful and customizable loading indicator library
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Easy to use, so many options perfect indicator library
+#### OnBoard
+* [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard) - Easy to use and very beautiful way to onboarding (introductionview) library, not totally up-to-date but still so easy to use 
 #### Switch
 * [RAMPaperSwitch](https://github.com/Ramotion/paper-switch) - Awesome animation switch library but its installation guide is not enough. Need to check their example, NOT recommended for new iOS Developers
 #### Tab
