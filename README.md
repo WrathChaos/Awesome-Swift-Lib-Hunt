@@ -1,6 +1,6 @@
 # Awesome-Swift-Lib-Hunt
 
-![](https://img.shields.io/badge/swift%20projects-28-orange.svg) ![](https://img.shields.io/badge/Last%20Updated-August&nbsp;08,&nbsp;2017-green.svg)
+![](https://img.shields.io/badge/swift%20projects-28-orange.svg) ![](https://img.shields.io/badge/Last%20Updated-November&nbsp;07,&nbsp;2017-green.svg)
 
 All these libraries are tested and used by myself. Bookmarks are just not enough and we cannot share them on public easily. 
 
