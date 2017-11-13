@@ -1,6 +1,6 @@
 # Awesome-Swift-Lib-Hunt
 
-![](https://img.shields.io/badge/swift%20projects-28-orange.svg) ![](https://img.shields.io/badge/Last%20Updated-November&nbsp;07,&nbsp;2017-green.svg)
+![](https://img.shields.io/badge/swift%20projects-29-orange.svg) ![](https://img.shields.io/badge/Last%20Updated-November&nbsp;07,&nbsp;2017-green.svg)
 
 All these libraries are tested and used by myself. Bookmarks are just not enough and we cannot share them on public easily. 
 
@@ -60,6 +60,7 @@ Here are the awesome iOS / Swift libraries.
 * [Transitions Everywhere](https://github.com/andkulikov/transitions-everywhere) - Perfect library for creating magical transitions. Easy to use & Well documented.
 #### Button
 * [VHBoomMenuButton](https://github.com/Nightonke/VHBoomMenuButton) - Marvelous animations, plenty of animation options, wonderful documentation
+* [EasySocialButton](https://github.com/Minitour/EasySocialButton) - Easy to use and beautiful customizable button
 #### Calendar
 * [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - The best calendar library ever ! Perfect UI and easy to implement
 * [FSCalendar](https://github.com/WenchaoD/FSCalendar) - Very good calendar library with its UI, supports Widget Calendar
