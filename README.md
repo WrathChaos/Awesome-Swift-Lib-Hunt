@@ -6,7 +6,7 @@
 </h1>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![](https://img.shields.io/badge/swift%20projects-36-orange.svg) ![](https://img.shields.io/badge/Last%20Updated-December&nbsp;29,&nbsp;2017-green.svg)
+![](https://img.shields.io/badge/swift%20projects-37-orange.svg) ![](https://img.shields.io/badge/Last%20Updated-January&nbsp;01,&nbsp;2018-green.svg)
 
 All these libraries are tested and used by myself. Bookmarks are just not enough and we cannot share them on public easily. 
 
@@ -103,11 +103,9 @@ Here are the awesome iOS / Swift libraries.
 
 
 ## Network
-* [Alamofire](https://github.com/Alamofire/Alamofire) - Best Swift networking library    
+* [Alamofire](https://github.com/Alamofire/Alamofire) - Best Swift networking library   
+* [ReachabilityLib](https://github.com/WrathChaos/ReachabilityLib) - Very simple and tiny network connection control library   
 #### Socket
 * [StompClientLib](https://github.com/WrathChaos/StompClientLib)- Very simple STOMP Client socket library
 #### Stream
 * [MJPEGStreamLib](https://github.com/WrathChaos/MJPEGStreamLib)- Very simple and easy to use MJPEGStream Library
-
-
-
